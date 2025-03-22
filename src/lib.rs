@@ -115,7 +115,7 @@ pub fn comp(file: Box<dyn BufRead>) -> MyResult<Vec<i32>> {
                 count += 1;
             }
             if count > 10 {
-                println!("{}",cd);
+                print!("{}",cd);
                 return Err("Invalid code".into());
             }
         }
