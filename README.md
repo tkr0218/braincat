@@ -1,4 +1,4 @@
-linuxコマンドラインツール作成の練習につくってます
+linuxコマンドラインツール作成の練習につくってます/n
 cargoコマンドが使えるなら
 >cargo install braincats
 
