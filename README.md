@@ -1,4 +1,7 @@
 linuxコマンドラインツール作成の練習につくってます
+>cargo install braincats
+
+でインストールできるはず
 brainfuckを猫の鳴き声に置き換えただけです
 | brainf*ck | braincat |
 | :---: | :--- |
