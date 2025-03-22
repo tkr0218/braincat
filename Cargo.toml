@@ -2,6 +2,11 @@
 name = "braincat"
 version = "0.1.0"
 edition = "2021"
+description = "brainf*ck with japanese cat sound"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/tkr0218/braincat"
+documentation = "https://github.com/tkr0218/braincat"
+homepage = "https://github.com/tkr0218/braincat"
 [dependencies]
 clap="2.x"
 [dev-dependencies]
