@@ -1,4 +1,5 @@
 linuxコマンドラインツール作成の練習につくってます
+cargoコマンドが使えるなら
 >cargo install braincats
 
 でインストールできるはず
