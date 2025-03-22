@@ -1,5 +1,5 @@
 [package]
-name = "braincat"
+name = "braincats"
 version = "0.1.1"
 edition = "2021"
 description = "brainf*ck with japanese cat sound"
