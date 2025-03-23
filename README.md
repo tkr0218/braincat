@@ -1,6 +1,6 @@
 linuxコマンドラインツール作成の練習につくってます
 brainfuckを猫の鳴き声に置き換えただけです
-| brainf*ck | braincat |
+| brainf*ck | braincats |
 | :---: | :--- |
 | > | みゃお |
 | < | にゃん |
@@ -34,7 +34,7 @@ brainfuckを猫の鳴き声に置き換えただけです
 >にゃにゃにゃ（=^・ω・^）にゃーにゃーにゃーにゃーにゃーにゃーにゃーにゃーにゃーにゃーごろごろ
 
 といった内容が書かれたexample.txtがあったとき
->braincat example.txt
+>braincats example.txt
 
 と入力すれば
 
