@@ -1,12 +1,12 @@
 [package]
 name = "braincats"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 description = "brainf*ck with japanese cat sound"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/tkr0218/braincat"
-documentation = "https://github.com/tkr0218/braincat"
-homepage = "https://github.com/tkr0218/braincat"
+repository = "https://github.com/tkr0218/braincats"
+documentation = "https://github.com/tkr0218/braincats"
+homepage = "https://github.com/tkr0218/braincats"
 [dependencies]
 clap="2.x"
 [dev-dependencies]
